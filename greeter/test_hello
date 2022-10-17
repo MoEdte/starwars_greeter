@@ -1,3 +1,2 @@
 NAME="LEIA"
-
 echo "Hello ${NAME}"
